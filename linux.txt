@@ -1,0 +1,6 @@
+ls
+ls -la
+pwd
+mv 
+rm 
+cp
